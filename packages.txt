@@ -1,0 +1,2 @@
+cmake
+libx11-dev
